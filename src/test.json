@@ -1,0 +1,101 @@
+{
+  "SeoulRtd.citydata_ppltn": [
+    {
+      "AREA_NM": "광화문·덕수궁",
+      "AREA_CD": "POI009",
+      "AREA_CONGEST_LVL": "약간 붐빔",
+      "AREA_CONGEST_MSG": "사람들이 몰려있을 가능성이 크고 붐빈다고 느낄 수 있어요. 인구밀도가 높은 구간에서는 도보 이동시 부딪힘이 발생할 수 있어요.",
+      "AREA_PPLTN_MIN": "36000",
+      "AREA_PPLTN_MAX": "38000",
+      "MALE_PPLTN_RATE": "50.0",
+      "FEMALE_PPLTN_RATE": "50.0",
+      "PPLTN_RATE_0": "0.1",
+      "PPLTN_RATE_10": "2.6",
+      "PPLTN_RATE_20": "18.1",
+      "PPLTN_RATE_30": "28.0",
+      "PPLTN_RATE_40": "25.6",
+      "PPLTN_RATE_50": "15.6",
+      "PPLTN_RATE_60": "6.2",
+      "PPLTN_RATE_70": "3.8",
+      "RESNT_PPLTN_RATE": "33.9",
+      "NON_RESNT_PPLTN_RATE": "66.1",
+      "REPLACE_YN": "N",
+      "PPLTN_TIME": "2024-02-01 10:55",
+      "FCST_YN": "Y",
+      "FCST_PPLTN": [
+        {
+          "FCST_TIME": "2024-02-01 12:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "38000",
+          "FCST_PPLTN_MAX": "40000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 13:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "44000",
+          "FCST_PPLTN_MAX": "46000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 14:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "44000",
+          "FCST_PPLTN_MAX": "46000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 15:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "38000",
+          "FCST_PPLTN_MAX": "40000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 16:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "40000",
+          "FCST_PPLTN_MAX": "42000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 17:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "36000",
+          "FCST_PPLTN_MAX": "38000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 18:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "34000",
+          "FCST_PPLTN_MAX": "36000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 19:00",
+          "FCST_CONGEST_LVL": "붐빔",
+          "FCST_PPLTN_MIN": "36000",
+          "FCST_PPLTN_MAX": "38000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 20:00",
+          "FCST_CONGEST_LVL": "보통",
+          "FCST_PPLTN_MIN": "22000",
+          "FCST_PPLTN_MAX": "24000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 21:00",
+          "FCST_CONGEST_LVL": "보통",
+          "FCST_PPLTN_MIN": "16000",
+          "FCST_PPLTN_MAX": "18000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 22:00",
+          "FCST_CONGEST_LVL": "여유",
+          "FCST_PPLTN_MIN": "12000",
+          "FCST_PPLTN_MAX": "14000"
+        },
+        {
+          "FCST_TIME": "2024-02-01 23:00",
+          "FCST_CONGEST_LVL": "여유",
+          "FCST_PPLTN_MIN": "8500",
+          "FCST_PPLTN_MAX": "9000"
+        }
+      ]
+    }
+  ]
+}
