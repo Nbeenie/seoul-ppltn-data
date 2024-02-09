@@ -3,7 +3,7 @@ import { useState } from "react";
 import styled from "styled-components";
 
 function App() {
-  const API_KEY = "6e4947456e6e626537324f4a726854";
+  const API_KEY = process.env.REACT_APP_API_KEY;
   const [location, setLocation] = useState("");
   const [result, setResult] = useState({});
 
